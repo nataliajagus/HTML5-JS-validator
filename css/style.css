@@ -25,3 +25,15 @@ h4 {
     color: white;
     float: right;
 }
+
+input.invalid {
+    border-color: red;
+}
+
+input.valid {
+    border-color: green;
+}
+
+.alert {
+    display: none;
+}
